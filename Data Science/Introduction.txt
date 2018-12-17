@@ -1,0 +1,35 @@
+STEP 1: Finding Data
+
+Collection of data 
+Where do you get data?
+All data are quantified 
+Data : Individual , descrete , continous | Big data | Textual data | Image Data etc
+Data type/Format : CSV, XML, SQL , TXT 
+
+STEP 2: Data Cleaning (Very very Important and time consuming ) 
+
+Reasons:
+Neglegance by human in entry of data
+Data are from various source 
+Data are unstructed at inital phase
+Data are unbaised 
+0,1 type of data like male-femle, true-false
+Distribution of data (unfavourable) {outliers}
+Null data ( Solution - approximate. Regression ) 
+
+STEP 3 : Data Mapping 
+
+STEP 4:  Data Filtering
+
+Hypothesis testing
+Correlation {correlation is not necessarily the causation in all case}
+
+STEP 5: Use
+
+Problems (classification -predict where does the value lie , regression- predict what the value)
+
+#BINOMIAL DISTRIBUTION 
+#STANDARD DEVIATION
+Home work: 
+1. what happens if you put mean , mode or median value in Null data 
+2. what is that correlation that mimics like they are correlated 
