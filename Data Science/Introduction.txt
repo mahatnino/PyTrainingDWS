@@ -31,5 +31,7 @@ Problems (classification -predict where does the value lie , regression- predict
 #BINOMIAL DISTRIBUTION 
 #STANDARD DEVIATION
 Home work: 
-1. what happens if you put mean , mode or median value in Null data 
+1. what happens if you put mean , mode or median value in Null data
+= Using the measures of central tendency involves substituting the missing values with the mean or median for numerical variables and the mode for categorical variables. The major limitation of using this method is that it leads to biased estimates of the variances and covariance. The standard errors and test statistics can also be underestimated and overestimated respectively. This imputation technique works well with when the values are missing completely at random.
+
 2. what is that correlation that mimics like they are correlated 
